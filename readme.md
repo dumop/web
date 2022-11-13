@@ -1,3 +1,6 @@
+# Luminite EOL
+Luminite has been discontinued. Feel free to Fork this project if you want to continue this :D
+
 # Luminite
 Luminite is Team Lunar's proxy site with countless features with the goal to end internet censorship. (currently a wip)
 Join the <a href="https://dsc.gg/teamlunar">Team Lunar Discord Server</a> for help, updates, and more links
